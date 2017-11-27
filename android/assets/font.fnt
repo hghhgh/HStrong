@@ -1,0 +1,31 @@
+info face=B Koodak,Bold size=250 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=0 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=251 base=154 scaleW=1024 scaleH=1024 pages=1 packed=0
+page id=0 file=font_00.png
+chars count=26
+char id=33 x=477 y=170 width=31 height=151 xoffset=19 yoffset=3 xadvance=49 page=0 chnl=0
+char id=37 x=338 y=0 width=105 height=169 xoffset=11 yoffset=1 xadvance=127 page=0 chnl=0
+char id=40 x=226 y=0 width=55 height=192 xoffset=19 yoffset=1 xadvance=74 page=0 chnl=0
+char id=41 x=282 y=0 width=55 height=192 xoffset=19 yoffset=1 xadvance=74 page=0 chnl=0
+char id=42 x=359 y=170 width=117 height=130 xoffset=19 yoffset=25 xadvance=136 page=0 chnl=0
+char id=43 x=256 y=193 width=102 height=102 xoffset=5 yoffset=56 xadvance=114 page=0 chnl=0
+char id=44 x=183 y=198 width=37 height=59 xoffset=19 yoffset=120 xadvance=55 page=0 chnl=0
+char id=45 x=35 y=281 width=102 height=17 xoffset=5 yoffset=99 xadvance=114 page=0 chnl=0
+char id=46 x=0 y=280 width=34 height=35 xoffset=19 yoffset=122 xadvance=53 page=0 chnl=0
+char id=47 x=444 y=0 width=72 height=169 xoffset=11 yoffset=1 xadvance=95 page=0 chnl=0
+char id=48 x=32 y=231 width=47 height=48 xoffset=43 yoffset=73 xadvance=136 page=0 chnl=0
+char id=49 x=854 y=162 width=41 height=160 xoffset=43 yoffset=6 xadvance=136 page=0 chnl=0
+char id=50 x=753 y=0 width=98 height=163 xoffset=19 yoffset=3 xadvance=136 page=0 chnl=0
+char id=51 x=896 y=162 width=128 height=160 xoffset=3 yoffset=6 xadvance=136 page=0 chnl=0
+char id=52 x=637 y=0 width=115 height=165 xoffset=11 yoffset=1 xadvance=136 page=0 chnl=0
+char id=53 x=625 y=167 width=112 height=155 xoffset=11 yoffset=11 xadvance=136 page=0 chnl=0
+char id=54 x=517 y=0 width=119 height=166 xoffset=9 yoffset=7 xadvance=136 page=0 chnl=0
+char id=55 x=738 y=166 width=115 height=155 xoffset=10 yoffset=8 xadvance=136 page=0 chnl=0
+char id=56 x=509 y=170 width=115 height=154 xoffset=10 yoffset=7 xadvance=136 page=0 chnl=0
+char id=57 x=852 y=0 width=90 height=161 xoffset=19 yoffset=3 xadvance=136 page=0 chnl=0
+char id=58 x=221 y=198 width=34 height=89 xoffset=19 yoffset=68 xadvance=53 page=0 chnl=0
+char id=61 x=80 y=231 width=102 height=49 xoffset=5 yoffset=86 xadvance=114 page=0 chnl=0
+char id=91 x=138 y=0 width=43 height=197 xoffset=16 yoffset=2 xadvance=60 page=0 chnl=0
+char id=93 x=182 y=0 width=43 height=197 xoffset=17 yoffset=2 xadvance=60 page=0 chnl=0
+char id=123 x=0 y=0 width=68 height=230 xoffset=34 yoffset=-36 xadvance=120 page=0 chnl=0
+char id=125 x=69 y=0 width=68 height=230 xoffset=17 yoffset=-36 xadvance=120 page=0 chnl=0
+kernings count=0
