@@ -6,9 +6,9 @@ We use [libGDX](https://libgdx.badlogicgames.com/index.html) game engine.
 
 ## Screen Shots
 The screen shot of the game are as bellow :
-![Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-45-42.png)
-![Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-04.png)
-![Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-20.png)
-![Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-22.png)
-![Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-47-41.png)
+[Menu](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-45-42.png),
+[The spell enabled](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-04.png),
+[The stone in fast speed](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-20.png),
+[The spell used](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-46-22.png),
+[The stone is falling](https://raw.githubusercontent.com/hghhgh/HStrong/blob/master/scshot/Screenshot_2017-11-27-17-47-41.png)
 
